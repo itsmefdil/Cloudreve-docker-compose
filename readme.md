@@ -1,6 +1,6 @@
 ## This config for cloudreve
 
-<img src="resources/login.png" alt="cloudreve" width="500"/>
+<img src="resources/login.png" alt="cloudreve" width="100%"/>
 
 Link Documentations : [cloudreve](https://docs.cloudreve.org/v/en/)
 
@@ -23,7 +23,7 @@ docker logs cloudreve
 ```
 
 <!-- Sample docker logs -->
-<img src="resources/docker-log.png" alt="docker logs" width="500"/>
+<img src="resources/docker-log.png" alt="docker logs" width="100%"/>
 
 <br>
 
